@@ -1,2 +1,3 @@
 kvinGitHub file for testing git init
 adding line 2
+IntelliJ IDEA line 001
